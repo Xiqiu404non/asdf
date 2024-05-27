@@ -82,7 +82,7 @@ const dataportfolio = [{
     },
     {
         img: "https://i.imgur.com/hNpgSm6.jpeg",
-        description: "只是看到好看的花便想到你 想要送給你",
+        description: "ℐ 𝒽𝑜𝓅𝑒 𝓎𝑜𝓊'𝓇𝑒 𝒽𝑒𝓇𝑒 𝒻𝑜𝓇 𝓂𝑒",
         link: "https://www.instagram.com/p/Cw6mLpuhl7g/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
@@ -102,7 +102,7 @@ const dataportfolio = [{
     },
     {
         img: "https://telegraph-image-8s5.pages.dev/file/ce5be720002832e74a976.jpg",
-        description: "ℐ 𝒽𝑜𝓅𝑒 𝓎𝑜𝓊'𝓇𝑒 𝒽𝑒𝓇𝑒 𝒻𝑜𝓇 𝓂𝑒",
+        description: "只是看到好看的花便想到你 想要送給你",
         link: "https://www.instagram.com/reel/CxP1cPAhnBm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
