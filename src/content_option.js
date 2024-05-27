@@ -122,10 +122,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    line: "https://github.com",
+    instagram: "https://www.instagram.com/bahati._flora/",
 };
 
 export {
