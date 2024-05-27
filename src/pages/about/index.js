@@ -7,7 +7,6 @@ import {
   meta,
   worktimeline,
   services,
-  notice,
 } from "../../content_option";
 
 export const About = () => {
