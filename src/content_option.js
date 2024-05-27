@@ -10,8 +10,8 @@ const introdata = {
         first: "花語花尋",
         second: "台北花店．永生花．乾燥花",
         third: "  "
-    description: "採預購制無現貨 / 聯絡以詢問價格、訂購 
-    },/ 可帶圖討論花款",
+    },
+    description: "採預購制無現貨 / 聯絡以詢問價格、訂購/ 可帶圖討論花款",
     your_img_url: "https://i.imgur.com/B2QhWKK.jpeg",
 };
 
