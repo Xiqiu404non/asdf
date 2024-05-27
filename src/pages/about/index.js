@@ -4,9 +4,9 @@ import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   dataabout,
-  meta,
   worktimeline,
   services,
+  notice,
 } from "../../content_option";
 
 export const About = () => {
@@ -69,6 +69,18 @@ export const About = () => {
                 </div>
               );
             })}
+          </Col>
+        </Row>
+        <Row className="sec_sp">
+          <Col lg="5">
+            <h3 className="color_sec py-4">{notice.title}</h3>
+          </Col>
+          <Col lg="7" className="d-flex align-items-center">
+            <div>
+              <p>{notice.line1}</p>
+              <p>{notice.line2}</p>
+              <p>{notice.line3}</p>
+            </div>
           </Col>
         </Row>
       </Container>
