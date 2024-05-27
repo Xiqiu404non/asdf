@@ -12,7 +12,7 @@ const introdata = {
         third: "  "
     },
     description: "採預購制無現貨 / 聯絡以詢問價格、訂購 / 可帶圖討論花款",
-    your_img_url: "https://drive.google.com/file/d/1_n0mFhwAbs57rOhtl4BcjPy66d6KgRB7/view?usp=sharing",
+    your_img_url: "https://ibb.co/nzbjD87",
 };
 
 const dataabout = {
