@@ -122,7 +122,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    line: "https://github.com",
+    line: "https://line.me/ti/p/r5-Ff2abhD",
     instagram: "https://www.instagram.com/bahati._flora/",
 };
 
