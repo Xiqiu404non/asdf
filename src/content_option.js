@@ -10,8 +10,8 @@ const introdata = {
         first: "花語花尋",
         second: "台北花店．永生花．乾燥花",
         third: "  "
-    },
-    description: "採預購制無現貨 / 聯絡以詢問價格、訂購 / 可帶圖討論花款",
+    description: "採預購制無現貨 / 聯絡以詢問價格、訂購 
+    },/ 可帶圖討論花款",
     your_img_url: "https://i.imgur.com/B2QhWKK.jpeg",
 };
 
@@ -21,7 +21,6 @@ const dataabout = {
              "永生玫瑰花為「厄瓜多玫瑰」，一朵直徑約6-7公分屬於非常頂級的大型玫瑰，色澤十分飽滿。" +
              "是由真花特殊處理製成，有天然紋路、裂痕屬正常現象每朵花都會經過認真的挑選，老闆品質認證。"
 };
-
 
 const worktimeline = [{
         jobtitle: "週六",
@@ -123,9 +122,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    instargram: "https://www.instagram.com/bahati._flora",
+    github: "https://github.com",
     facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
+    twitter: "https://twitter.com",
 };
 
 export {
