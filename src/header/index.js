@@ -51,7 +51,7 @@ const Headermain = () => {
             </div>
           </div>
           <div className="menu_footer d-flex flex-column flex-md-row justify-content-between align-items-md-center position-absolute w-100 p-3">
-            <p className="copyright m-0">instergram@bahati_flora</p>
+            <p className="copyright m-0">instargram@bahati_flora</p>
           </div>
         </div>
       </header>
