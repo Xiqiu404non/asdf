@@ -73,13 +73,13 @@ export const About = () => {
         </Row>
         <Row className="sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4">{notice.title}</h3>
+            <h3 className="color_sec py-4">注意事項</h3>
           </Col>
           <Col lg="7" className="d-flex align-items-center">
             <div>
-              <p>{notice.line1}</p>
-              <p>{notice.line2}</p>
-              <p>{notice.line3}</p>
+              <p>開箱時請務必錄影，刀口切勿割太深，會傷到花束包裝！若商品有問題會立刻幫您處理或退款。</p>
+              <p>運送過程撞擊難以避免，但商品寄出前都會做好防撞措施。</p>
+              <p>老闆小建議：交通方便者以面交取貨最能保證花束完整性。</p>
             </div>
           </Col>
         </Row>
