@@ -55,7 +55,7 @@ const dataportfolio = [{
     },
     {
         img: "https://i.imgur.com/p82KtKC.jpeg",
-        description: "ℐ 𝓉𝒽𝒾𝓃𝓀 𝓁𝑜𝓋𝑒 𝒾𝓈 𝒶 𝓉𝑜𝓊𝒸𝒽 𝒶𝓃𝒹 𝓎𝑒𝓉 𝓃𝑜𝓉 𝒶 𝓉𝑜𝓊𝒸𝒽",
+        description: "喜歡你抱著花 朝我走來的樣子𓍯♡",
         link: "https://www.instagram.com/p/C2mZ_V9yJGy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
@@ -71,23 +71,23 @@ const dataportfolio = [{
     },
     {
         img: "https://i.imgur.com/GaDweHI.jpeg",
-        description: "喜歡你抱著花 朝我走來的樣子𓍯♡",
+        description: "ℐ 𝓉𝒽𝒾𝓃𝓀 𝓁𝑜𝓋𝑒 𝒾𝓈 𝒶 𝓉𝑜𝓊𝒸𝒽 𝒶𝓃𝒹 𝓎𝑒𝓉 𝓃𝑜𝓉 𝒶 𝓉𝑜𝓊𝒸𝒽",
         link: "https://www.instagram.com/p/CwwUntchyQd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
 
     },
     {
         img: "https://i.imgur.com/vQ7Slwt.jpeg",
-        description: "只是看到好看的花便想到你 想要送給你",
+        description: "𝒯𝒽𝑒 𝓉𝒾𝓂𝑒 𝒾𝓃 𝓉𝒽𝑒 𝒻𝓊𝓉𝓊𝓇𝑒 𝒾𝓈 𝓇𝑒𝓁𝒶𝓉𝑒𝒹 𝓉𝑜 𝓎𝑜𝓊 𝒶𝓃𝒹 𝓉𝑜 𝓉𝒽𝑒 𝒻𝓁𝑜𝓌𝑒𝓇𝓈",
         link: "https://www.instagram.com/p/Cw1pA1NBc-Q/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
         img: "https://i.imgur.com/hNpgSm6.jpeg",
-        description: "𝒯𝒽𝑒 𝓉𝒾𝓂𝑒 𝒾𝓃 𝓉𝒽𝑒 𝒻𝓊𝓉𝓊𝓇𝑒 𝒾𝓈 𝓇𝑒𝓁𝒶𝓉𝑒𝒹 𝓉𝑜 𝓎𝑜𝓊 𝒶𝓃𝒹 𝓉𝑜 𝓉𝒽𝑒 𝒻𝓁𝑜𝓌𝑒𝓇𝓈",
+        description: "只是看到好看的花便想到你 想要送給你",
         link: "https://www.instagram.com/p/Cw6mLpuhl7g/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
         img: "https://i.imgur.com/wAPrXed.jpeg",
-        description: "𝓣𝓱𝓮 𝓯𝓵𝓸𝔀𝓮𝓻 𝓼𝓱𝓸𝓹 𝓲𝓼 𝓬𝓵𝓸𝓼𝓮𝓭, 𝓫𝓾𝓽 𝓽𝓱𝓮 𝓯𝓵𝓸𝔀𝓮𝓻𝓼 𝓬𝓸𝓷𝓽𝓲𝓷𝓾𝓮 𝓽𝓸 𝓫𝓵𝓸𝓸𝓶",
+        description: "讓日子浪漫一些很簡單 只要落日 晚風 和一束花",
         link: "https://www.instagram.com/p/Cx2eSvxhHiY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
     {
@@ -107,7 +107,7 @@ const dataportfolio = [{
     },
     {
         img: "https://telegraph-image-8s5.pages.dev/file/627d1805f4547671df075.jpg",
-        description: "讓日子浪漫一些很簡單 只要落日 晚風 和一束花",
+        description: "𝓣𝓱𝓮 𝓯𝓵𝓸𝔀𝓮𝓻 𝓼𝓱𝓸𝓹 𝓲𝓼 𝓬𝓵𝓸𝓼𝓮𝓭, 𝓫𝓾𝓽 𝓽𝓱𝓮 𝓯𝓵𝓸𝔀𝓮𝓻𝓼 𝓬𝓸𝓷𝓽𝓲𝓷𝓾𝓮 𝓽𝓸 𝓫𝓵𝓸𝓸𝓶",
         link: "https://www.instagram.com/p/CwzJ60ihHVK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
     },
 ];
