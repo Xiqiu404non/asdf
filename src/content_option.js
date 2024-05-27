@@ -122,7 +122,6 @@ const contactConfig = {
     YOUR_USER_ID: "user_id",
 };
 
-};
 export {
     meta,
     dataabout,
