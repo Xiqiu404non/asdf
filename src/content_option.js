@@ -122,11 +122,6 @@ const contactConfig = {
     YOUR_USER_ID: "user_id",
 };
 
-const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
 };
 export {
     meta,
@@ -136,6 +131,5 @@ export {
     services,
     introdata,
     contactConfig,
-    socialprofils,
     logotext,
 };
