@@ -53,7 +53,6 @@ const notice = {
     line2: "運送過程撞擊難以避免，但商品寄出前都會做好防撞措施。",
     line3: "老闆小建議：交通方便者以面交取貨最能保證花束完整性。"
     };
-];
 
 const dataportfolio = [{
         img: "https://i.imgur.com/eltlkAJ.jpeg",
