@@ -47,12 +47,6 @@ const services = [{
         description: "提供客製化「花色/緞帶/波浪紗/玻璃紙」等細項部分，都可以私訊討論。",
     },
 ];                  
-const notice = {
-    title: "注意事項",
-    line1: "開箱時請務必錄影，刀口切勿割太深，會傷到花束包裝！若商品有問題會立刻幫您處理或退款。",
-    line2: "運送過程撞擊難以避免，但商品寄出前都會做好防撞措施。",
-    line3: "老闆小建議：交通方便者以面交取貨最能保證花束完整性。"
-    };
 
 const dataportfolio = [{
         img: "https://i.imgur.com/eltlkAJ.jpeg",
