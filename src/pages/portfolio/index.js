@@ -2,15 +2,15 @@ import React from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
-import { dataportfolio, meta } from "../../content_option";
+import { dataproduct, meta } from "../../content_option";
 
-export const Portfolio = () => {
+export const Product = () => {
   return (
     <HelmetProvider>
       <Container className="About-header">
         <Helmet>
           <meta charSet="utf-8" />
-          <title> Portfolio | {meta.title} </title>{" "}
+          <title> Product | {meta.title} </title>{" "}
           <meta name="description" content={meta.description} />
         </Helmet>
         <Row className="mb-5 mt-3 pt-md-3">
@@ -20,7 +20,7 @@ export const Portfolio = () => {
           </Col>
         </Row>
         <div className="mb-5 po_items_ho">
-          {dataportfolio.map((data, i) => {
+          {dataproduct.map((data, i) => {
             return (
               <div key={i} className="po_item">
                 <img src={data.img} alt="" />
