@@ -48,7 +48,7 @@ const services = [{
     },
 ];                  
 
-const dataportfolio = [{
+const dataproduct = [{
         img: "https://i.imgur.com/eltlkAJ.jpeg",
         description: "對你的喜歡都藏在花裡⊹♡",
         link: "https://www.instagram.com/p/CyayomEhlYe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
