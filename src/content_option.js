@@ -130,7 +130,7 @@ const socialprofils = {
 export {
     meta,
     dataabout,
-    dataportfolio,
+    dataproduct,
     worktimeline,
     services,
     introdata,
