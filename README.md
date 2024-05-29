@@ -1,6 +1,7 @@
 ### Description
 
 A simple portfolio template for developer/designers built with React. 
+https://git-scm.com/
 
 ### [live preview](https://ubaimutl.github.io/react-portfolio/)
 
